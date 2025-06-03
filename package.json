@@ -1,0 +1,15 @@
+{
+  "name": "nhalege-holding-site-2",
+  "version": "1.0.0",
+  "description": "Welcome to the official codebase of **Nhalege LLC**, a holding company dedicated to building generational wealth, infrastructure, education, and impact-driven business across multiple sectors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
